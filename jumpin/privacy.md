@@ -36,4 +36,4 @@ If the app changes in a way that affects privacy (for example, adding analytics,
 
 ## Contact
 **FeliXGear**  
-Email: **info@felixgear.net**
+Web: **https://felixgear.net**
