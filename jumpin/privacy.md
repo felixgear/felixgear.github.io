@@ -2,7 +2,7 @@
 title: JumpIn Privacy Policy
 ---
 
-# Privacy Policy — JumpIn
+# Privacy Policy - JumpIn
 
 **Last updated:** 2026-02-05
 
